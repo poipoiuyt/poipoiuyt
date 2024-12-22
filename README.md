@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and self-improvement
 - 🌱 I’m currently learning how to make my own site
 - 💞️ I’m looking to collaborate with every interestend in helping newbies xd
-- 📫 How to reach me: yulia.karpec@mail.ru
+- 📫 How to reach me: 
 - 😄 Pronouns: every u want
 - ⚡ Fun fact: cs2
 
