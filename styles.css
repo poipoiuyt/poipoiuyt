@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Портфолио Юлии Карпец</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+body {
+    background-color: #2e2e2e; /* Серый цвет */
+    color: #c4d2c3; /* Светло-зеленый */
+}
+
 background: url('images/plastic-texture.jpg') no-repeat center;
 </head>
 <body>
@@ -24,6 +30,11 @@ background: url('images/plastic-texture.jpg') no-repeat center;
                 <div class="buttons">
                     <a href="#projects" class="button gold">Проекты</a>
                     <a href="#contact" class="button green">
+.button.gold {
+    background-color: #e0c171; /* Золотой */
+    color: #2e2e2e; /* Тёмно-серый текст */
+}
+
                         <span class="symbol">JK</span> Контакты
                     </a>
                 </div>
