@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Портфолио Юлии Карпец</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <div class="photo">
+                <img src="photo.jpg" alt="Юлия Карпец">
+            </div>
+            <div class="content">
+                <h1>Привет, я Юля</h1>
+                <p>
+                    Я — графический дизайнер, влюбленная в создание визуальных историй. 
+                    Работаю в Figma, Photoshop и Illustrator. Экспериментирую с брендингом, 
+                    постерами и веб-баннерами.
+                </p>
+                <div class="buttons">
+                    <a href="#projects" class="button gold">Проекты</a>
+                    <a href="#contact" class="button green">
+                        <span class="symbol">JK</span> Контакты
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section id="projects">
+            <h2>Проекты</h2>
+            <ul>
+                <li>CLM-презентация для «Иберогаст»</li>
+                <li>Фирменный стиль для «Грани»</li>
+                <li>Рекламные баннеры для музея</li>
+                <li>Прототип мобильного приложения</li>
+                <li>Интерфейсная иллюстрация</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Контакты</h2>
+            <p>
+                Телефон: <a href="tel:+79670960877">+7 967 096 0877</a><br>
+                Почта: <a href="mailto:juli.karpec@gmail.com">juli.karpec@gmail.com</a><br>
+                Behance: <a href="https://www.behance.net/julikarpec" target="_blank">https://www.behance.net/julikarpec</a>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Юлия Карпец. Все права защищены.</p>
+    </footer>
+</body>
+</html>
